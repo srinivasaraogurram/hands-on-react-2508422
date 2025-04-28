@@ -1,0 +1,35 @@
+  origin/HEAD -> origin/main
+  origin/main
+  upstream/01_01b
+  upstream/01_01e
+  upstream/01_02b
+  upstream/01_02e
+  upstream/01_03b
+  upstream/01_03e
+  upstream/01_04b
+  upstream/01_04e
+  upstream/01_05b
+  upstream/01_05e
+  upstream/02_01b
+  upstream/02_01e
+  upstream/02_02b
+  upstream/02_02e
+  upstream/02_03b
+  upstream/02_03e
+  upstream/02_04b
+  upstream/02_04e
+  upstream/02_05b
+  upstream/02_05e
+  upstream/03_01b
+  upstream/03_01e
+  upstream/03_02b
+  upstream/03_02e
+  upstream/03_03b
+  upstream/03_03e
+  upstream/03_04b
+  upstream/03_04e
+  upstream/03_05b
+  upstream/03_05e
+  upstream/HEAD -> upstream/main
+  upstream/final
+  upstream/main
